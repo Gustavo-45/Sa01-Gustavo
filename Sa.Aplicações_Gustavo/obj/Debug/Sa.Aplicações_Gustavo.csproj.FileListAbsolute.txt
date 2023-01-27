@@ -1,0 +1,8 @@
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\obj\Debug\Sa.Aplicações_Gustavo.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\obj\Debug\Sa.Aplicações_Gustavo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\obj\Debug\Sa.Aplicações_Gustavo.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\bin\Debug\Sa.Aplicações_Gustavo.exe.config
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\bin\Debug\Sa.Aplicações_Gustavo.exe
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\bin\Debug\Sa.Aplicações_Gustavo.pdb
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\obj\Debug\Sa.Aplicações_Gustavo.exe
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa.Aplicações_Gustavo\obj\Debug\Sa.Aplicações_Gustavo.pdb

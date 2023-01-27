@@ -1,0 +1,8 @@
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\bin\Debug\Sa01.Aplicacao6.exe.config
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\bin\Debug\Sa01.Aplicacao6.exe
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\bin\Debug\Sa01.Aplicacao6.pdb
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\obj\Debug\Sa01.Aplicacao6.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\obj\Debug\Sa01.Aplicacao6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\obj\Debug\Sa01.Aplicacao6.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\obj\Debug\Sa01.Aplicacao6.exe
+C:\Users\Gusta\source\repos\Sa01.Aplicação\Sa01.Aplicacao6\obj\Debug\Sa01.Aplicacao6.pdb
