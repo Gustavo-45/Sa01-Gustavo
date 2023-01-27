@@ -10,15 +10,14 @@ namespace Sa01.Aplicação
     {
         static void Main(string[] args)
         {
-            String x
-            String y
+            double x, y;
                 
             Console.WriteLine("Qual o valor do primeiro avião?")
              x = int.Parse(Console.ReadLine());
             Console.WriteLine("Qual o valor do segundo avião?")
              y = int.Parse(Console.ReadLine());
                 var r = x + y ;
-            Console.WriteLine("O valor dos dois aviões é de " {r} )
+            Console.WriteLine($"O valor dos dois aviões é de {r} reias." )
             
 
 
